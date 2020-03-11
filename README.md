@@ -1,5 +1,8 @@
 # request-funjs
 
+![](https://img.shields.io/badge/%20downloads-254/week-brightgreen.svg)
+![](https://img.shields.io/npm/l/request-funjs.svg)
+![](https://img.shields.io/github/stars/CrazyMrYan/request-funjs?style=social.svg)
 
 # 快速上手
 
