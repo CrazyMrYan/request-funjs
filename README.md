@@ -65,6 +65,7 @@ Request.Get("api/list",this.params,
 7、微信分享 :
 	Request.SetShare
 ```
+<p>If you like, please give me a star :star:</p>
 <img width="180" src="http://crazy-x-lovemysoul-x-vip.img.abc188.com/images/beishang.png" align="left">  
 <img  width="180" src="http://crazy-x-lovemysoul-x-vip.img.abc188.com/images/zan.png"  align="left" />
 <img  width="180" src="http://crazy-x-lovemysoul-x-vip.img.abc188.com/images/wechat.png"  />
