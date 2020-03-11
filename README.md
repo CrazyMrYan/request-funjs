@@ -64,4 +64,4 @@ Request.Get("api/list",this.params,
 ```
 <img width="180" src="http://crazy-x-lovemysoul-x-vip.img.abc188.com/images/beishang.png" align="left">  
 <img  width="180" src="http://crazy-x-lovemysoul-x-vip.img.abc188.com/images/zan.png"  align="left" />
-<img  width="180" src="http://crazy-x-lovemysoul-x-vip.img.abc188.com/images/zan.png"  />
+<img  width="180" src="http://crazy-x-lovemysoul-x-vip.img.abc188.com/images/wechat.png"  />
