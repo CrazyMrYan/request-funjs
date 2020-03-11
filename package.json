@@ -1,14 +1,14 @@
 {
   "name": "request-funjs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This is an encapsulated $Ajax request function",
   "main": "index.js",
   "scripts": {
-    "test": "1.0.3"
+    "test": "1.0.4"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CrazyMrYan/requestjs.git"
+    "url": "git+https://github.com/CrazyMrYan/request-funjs.git"
   },
   "keywords": [
     "request",
@@ -21,7 +21,7 @@
   "author": "CrazyYan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CrazyMrYan/requestjs/issues"
+    "url": "https://github.com/CrazyMrYan/request-funjs/issues"
   },
-  "homepage": "https://github.com/CrazyMrYan/requestjs#readme"
+  "homepage": "https://github.com/CrazyMrYan/request-funjs#readme"
 }
