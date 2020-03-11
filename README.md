@@ -26,13 +26,13 @@ Request.host = 'https://www.baidu.com'
 ```javascript
 import Request from 'request-funjs';
 //在这里需要声明一个 host 变量，作为请求的主机名称
-Request.host = 'https://www.baidu.com'
+this.Request.host = 'https://www.baidu.com'
 ```
 
 ## 例子
 
 ```javascript
-Request.Get("api/list",this.params,
+this.Request.Get("api/list",this.params,
 	res => {
 	   console.log(res);
 	},
